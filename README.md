@@ -1,9 +1,5 @@
 ## 💫 Hi there:
-👋 My name is Maggie and I am a full-stack software engineer and architect. I'm passionate about web development, design, travel, jogging, painting and pets. <br>👩🏻‍💻 I'm currently working on React and Node.js, Next.js apps.<br>📒 I'm currently studying Spline and Three.js<br>📑 Connect with me on Linkedin: <br>
-
-
-#### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mzhangarch) 
+👋 My name is Maggie and I am a full-stack software engineer and architect. I'm passionate about web development, design, travel, jogging, painting and pets. <br>👩🏻‍💻 I'm currently working on React and Node.js, Next.js apps.<br>📒 I'm currently studying Spline and Three.js<br>📑 Connect with me on [Linkedin]https://linkedin.com/in/mzhangarch <br>
 
 ## 💻 Technologies I use:
 #### 🌱 Languages:
