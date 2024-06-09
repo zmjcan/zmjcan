@@ -1,5 +1,5 @@
 ## 💫 Hi there:
-👋 My name is Maggie and I am a full-stack software engineer and architect. I'm passionate about web development, design, travel, jogging, painting and pets. <br>👩🏻‍💻 I'm currently working on React and Node.js, Next.js apps.<br>📒 I'm currently studying Spline and Three.js<br>📑 Connect with me on LinkedIn: <br>
+👋 My name is Maggie and I am a full-stack software engineer and architect. I'm passionate about web development, design, travel, jogging, painting and pets. <br>👩🏻‍💻 I'm currently working on React, Node.js, Express.js and Next.js apps.<br>📒 I'm currently studying Spline and Three.js<br>📑 Connect with me on LinkedIn: <br>
 
 
 #### 🔖 Socials:
